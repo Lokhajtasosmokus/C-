@@ -1,0 +1,7 @@
+C:\Lokhajtasosmokus\week-02\day-2\SecondsAppropriate\SecondsAppropriate\obj\Debug\SecondsAppropriate.csprojAssemblyReference.cache
+C:\Lokhajtasosmokus\week-02\day-2\SecondsAppropriate\SecondsAppropriate\obj\Debug\SecondsAppropriate.csproj.CoreCompileInputs.cache
+C:\Lokhajtasosmokus\week-02\day-2\SecondsAppropriate\SecondsAppropriate\bin\Debug\SecondsAppropriate.exe.config
+C:\Lokhajtasosmokus\week-02\day-2\SecondsAppropriate\SecondsAppropriate\bin\Debug\SecondsAppropriate.exe
+C:\Lokhajtasosmokus\week-02\day-2\SecondsAppropriate\SecondsAppropriate\bin\Debug\SecondsAppropriate.pdb
+C:\Lokhajtasosmokus\week-02\day-2\SecondsAppropriate\SecondsAppropriate\obj\Debug\SecondsAppropriate.exe
+C:\Lokhajtasosmokus\week-02\day-2\SecondsAppropriate\SecondsAppropriate\obj\Debug\SecondsAppropriate.pdb

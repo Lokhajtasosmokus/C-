@@ -1,0 +1,7 @@
+C:\Lokhajtasosmokus\week-02\day-2\Reverse\Reverse\obj\Debug\Reverse.csprojAssemblyReference.cache
+C:\Lokhajtasosmokus\week-02\day-2\Reverse\Reverse\obj\Debug\Reverse.csproj.CoreCompileInputs.cache
+C:\Lokhajtasosmokus\week-02\day-2\Reverse\Reverse\bin\Debug\Reverse.exe.config
+C:\Lokhajtasosmokus\week-02\day-2\Reverse\Reverse\bin\Debug\Reverse.exe
+C:\Lokhajtasosmokus\week-02\day-2\Reverse\Reverse\bin\Debug\Reverse.pdb
+C:\Lokhajtasosmokus\week-02\day-2\Reverse\Reverse\obj\Debug\Reverse.exe
+C:\Lokhajtasosmokus\week-02\day-2\Reverse\Reverse\obj\Debug\Reverse.pdb

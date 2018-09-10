@@ -1,0 +1,7 @@
+C:\Lokhajtasosmokus\week-01\day-4\PrintEven\PrintEven\bin\Debug\PrintEven.exe.config
+C:\Lokhajtasosmokus\week-01\day-4\PrintEven\PrintEven\bin\Debug\PrintEven.exe
+C:\Lokhajtasosmokus\week-01\day-4\PrintEven\PrintEven\bin\Debug\PrintEven.pdb
+C:\Lokhajtasosmokus\week-01\day-4\PrintEven\PrintEven\obj\Debug\PrintEven.csprojAssemblyReference.cache
+C:\Lokhajtasosmokus\week-01\day-4\PrintEven\PrintEven\obj\Debug\PrintEven.csproj.CoreCompileInputs.cache
+C:\Lokhajtasosmokus\week-01\day-4\PrintEven\PrintEven\obj\Debug\PrintEven.exe
+C:\Lokhajtasosmokus\week-01\day-4\PrintEven\PrintEven\obj\Debug\PrintEven.pdb

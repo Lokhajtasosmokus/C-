@@ -1,0 +1,7 @@
+C:\Lokhajtasosmokus\week-02\day-2\PrintEachLine\PrintEachLine\bin\Debug\PrintEachLine.exe.config
+C:\Lokhajtasosmokus\week-02\day-2\PrintEachLine\PrintEachLine\bin\Debug\PrintEachLine.exe
+C:\Lokhajtasosmokus\week-02\day-2\PrintEachLine\PrintEachLine\bin\Debug\PrintEachLine.pdb
+C:\Lokhajtasosmokus\week-02\day-2\PrintEachLine\PrintEachLine\obj\Debug\PrintEachLine.csprojAssemblyReference.cache
+C:\Lokhajtasosmokus\week-02\day-2\PrintEachLine\PrintEachLine\obj\Debug\PrintEachLine.csproj.CoreCompileInputs.cache
+C:\Lokhajtasosmokus\week-02\day-2\PrintEachLine\PrintEachLine\obj\Debug\PrintEachLine.exe
+C:\Lokhajtasosmokus\week-02\day-2\PrintEachLine\PrintEachLine\obj\Debug\PrintEachLine.pdb
