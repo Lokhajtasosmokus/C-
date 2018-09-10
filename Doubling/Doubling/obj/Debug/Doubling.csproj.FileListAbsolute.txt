@@ -1,0 +1,7 @@
+C:\Lokhajtasosmokus\week-02\day-1\Doubling\Doubling\bin\Debug\Doubling.exe.config
+C:\Lokhajtasosmokus\week-02\day-1\Doubling\Doubling\bin\Debug\Doubling.exe
+C:\Lokhajtasosmokus\week-02\day-1\Doubling\Doubling\bin\Debug\Doubling.pdb
+C:\Lokhajtasosmokus\week-02\day-1\Doubling\Doubling\obj\Debug\Doubling.csprojAssemblyReference.cache
+C:\Lokhajtasosmokus\week-02\day-1\Doubling\Doubling\obj\Debug\Doubling.csproj.CoreCompileInputs.cache
+C:\Lokhajtasosmokus\week-02\day-1\Doubling\Doubling\obj\Debug\Doubling.exe
+C:\Lokhajtasosmokus\week-02\day-1\Doubling\Doubling\obj\Debug\Doubling.pdb
