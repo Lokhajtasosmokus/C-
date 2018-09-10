@@ -1,0 +1,11 @@
+C:\Lokhajtasosmokus\week-07\day-01\FirstWebApplication\FirstWebApplication\bin\Debug\netcoreapp2.0\FirstWebApplication.deps.json
+C:\Lokhajtasosmokus\week-07\day-01\FirstWebApplication\FirstWebApplication\bin\Debug\netcoreapp2.0\FirstWebApplication.runtimeconfig.json
+C:\Lokhajtasosmokus\week-07\day-01\FirstWebApplication\FirstWebApplication\bin\Debug\netcoreapp2.0\FirstWebApplication.runtimeconfig.dev.json
+C:\Lokhajtasosmokus\week-07\day-01\FirstWebApplication\FirstWebApplication\bin\Debug\netcoreapp2.0\FirstWebApplication.dll
+C:\Lokhajtasosmokus\week-07\day-01\FirstWebApplication\FirstWebApplication\bin\Debug\netcoreapp2.0\FirstWebApplication.pdb
+C:\Lokhajtasosmokus\week-07\day-01\FirstWebApplication\FirstWebApplication\obj\Debug\netcoreapp2.0\FirstWebApplication.csprojAssemblyReference.cache
+C:\Lokhajtasosmokus\week-07\day-01\FirstWebApplication\FirstWebApplication\obj\Debug\netcoreapp2.0\FirstWebApplication.csproj.CoreCompileInputs.cache
+C:\Lokhajtasosmokus\week-07\day-01\FirstWebApplication\FirstWebApplication\obj\Debug\netcoreapp2.0\FirstWebApplication.AssemblyInfoInputs.cache
+C:\Lokhajtasosmokus\week-07\day-01\FirstWebApplication\FirstWebApplication\obj\Debug\netcoreapp2.0\FirstWebApplication.AssemblyInfo.cs
+C:\Lokhajtasosmokus\week-07\day-01\FirstWebApplication\FirstWebApplication\obj\Debug\netcoreapp2.0\FirstWebApplication.dll
+C:\Lokhajtasosmokus\week-07\day-01\FirstWebApplication\FirstWebApplication\obj\Debug\netcoreapp2.0\FirstWebApplication.pdb

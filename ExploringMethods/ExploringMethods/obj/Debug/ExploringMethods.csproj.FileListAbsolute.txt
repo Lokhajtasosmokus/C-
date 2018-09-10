@@ -1,0 +1,7 @@
+C:\Lokhajtasosmokus\week-02\day-2\ExploringMethods\ExploringMethods\bin\Debug\ExploringMethods.exe.config
+C:\Lokhajtasosmokus\week-02\day-2\ExploringMethods\ExploringMethods\bin\Debug\ExploringMethods.exe
+C:\Lokhajtasosmokus\week-02\day-2\ExploringMethods\ExploringMethods\bin\Debug\ExploringMethods.pdb
+C:\Lokhajtasosmokus\week-02\day-2\ExploringMethods\ExploringMethods\obj\Debug\ExploringMethods.csprojAssemblyReference.cache
+C:\Lokhajtasosmokus\week-02\day-2\ExploringMethods\ExploringMethods\obj\Debug\ExploringMethods.csproj.CoreCompileInputs.cache
+C:\Lokhajtasosmokus\week-02\day-2\ExploringMethods\ExploringMethods\obj\Debug\ExploringMethods.exe
+C:\Lokhajtasosmokus\week-02\day-2\ExploringMethods\ExploringMethods\obj\Debug\ExploringMethods.pdb
