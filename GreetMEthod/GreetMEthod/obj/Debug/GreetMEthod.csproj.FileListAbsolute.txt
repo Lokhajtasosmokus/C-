@@ -1,0 +1,6 @@
+C:\Lokhajtasosmokus\week-02\day-1\GreetMEthod\GreetMEthod\bin\Debug\GreetMEthod.exe.config
+C:\Lokhajtasosmokus\week-02\day-1\GreetMEthod\GreetMEthod\bin\Debug\GreetMEthod.exe
+C:\Lokhajtasosmokus\week-02\day-1\GreetMEthod\GreetMEthod\bin\Debug\GreetMEthod.pdb
+C:\Lokhajtasosmokus\week-02\day-1\GreetMEthod\GreetMEthod\obj\Debug\GreetMEthod.csproj.CoreCompileInputs.cache
+C:\Lokhajtasosmokus\week-02\day-1\GreetMEthod\GreetMEthod\obj\Debug\GreetMEthod.exe
+C:\Lokhajtasosmokus\week-02\day-1\GreetMEthod\GreetMEthod\obj\Debug\GreetMEthod.pdb

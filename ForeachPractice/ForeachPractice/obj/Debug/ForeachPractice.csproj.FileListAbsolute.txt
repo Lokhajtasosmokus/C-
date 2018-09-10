@@ -1,0 +1,7 @@
+C:\Lokhajtasosmokus\week-02\day-2\ForeachPractice\ForeachPractice\bin\Debug\ForeachPractice.exe.config
+C:\Lokhajtasosmokus\week-02\day-2\ForeachPractice\ForeachPractice\bin\Debug\ForeachPractice.exe
+C:\Lokhajtasosmokus\week-02\day-2\ForeachPractice\ForeachPractice\bin\Debug\ForeachPractice.pdb
+C:\Lokhajtasosmokus\week-02\day-2\ForeachPractice\ForeachPractice\obj\Debug\ForeachPractice.csprojAssemblyReference.cache
+C:\Lokhajtasosmokus\week-02\day-2\ForeachPractice\ForeachPractice\obj\Debug\ForeachPractice.csproj.CoreCompileInputs.cache
+C:\Lokhajtasosmokus\week-02\day-2\ForeachPractice\ForeachPractice\obj\Debug\ForeachPractice.exe
+C:\Lokhajtasosmokus\week-02\day-2\ForeachPractice\ForeachPractice\obj\Debug\ForeachPractice.pdb

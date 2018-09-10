@@ -1,0 +1,7 @@
+C:\Lokhajtasosmokus\week-02\day-2\ForEachExperiment\ForEachExperiment\bin\Debug\ForEachExperiment.exe.config
+C:\Lokhajtasosmokus\week-02\day-2\ForEachExperiment\ForEachExperiment\bin\Debug\ForEachExperiment.exe
+C:\Lokhajtasosmokus\week-02\day-2\ForEachExperiment\ForEachExperiment\bin\Debug\ForEachExperiment.pdb
+C:\Lokhajtasosmokus\week-02\day-2\ForEachExperiment\ForEachExperiment\obj\Debug\ForEachExperiment.csprojAssemblyReference.cache
+C:\Lokhajtasosmokus\week-02\day-2\ForEachExperiment\ForEachExperiment\obj\Debug\ForEachExperiment.csproj.CoreCompileInputs.cache
+C:\Lokhajtasosmokus\week-02\day-2\ForEachExperiment\ForEachExperiment\obj\Debug\ForEachExperiment.exe
+C:\Lokhajtasosmokus\week-02\day-2\ForEachExperiment\ForEachExperiment\obj\Debug\ForEachExperiment.pdb
