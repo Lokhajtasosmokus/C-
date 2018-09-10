@@ -1,0 +1,7 @@
+C:\Lokhajtasosmokus\week-02\day-2\BirthdayDictionary\BirthdayDictionary\bin\Debug\BirthdayDictionary.exe.config
+C:\Lokhajtasosmokus\week-02\day-2\BirthdayDictionary\BirthdayDictionary\bin\Debug\BirthdayDictionary.exe
+C:\Lokhajtasosmokus\week-02\day-2\BirthdayDictionary\BirthdayDictionary\bin\Debug\BirthdayDictionary.pdb
+C:\Lokhajtasosmokus\week-02\day-2\BirthdayDictionary\BirthdayDictionary\obj\Debug\BirthdayDictionary.csprojAssemblyReference.cache
+C:\Lokhajtasosmokus\week-02\day-2\BirthdayDictionary\BirthdayDictionary\obj\Debug\BirthdayDictionary.csproj.CoreCompileInputs.cache
+C:\Lokhajtasosmokus\week-02\day-2\BirthdayDictionary\BirthdayDictionary\obj\Debug\BirthdayDictionary.exe
+C:\Lokhajtasosmokus\week-02\day-2\BirthdayDictionary\BirthdayDictionary\obj\Debug\BirthdayDictionary.pdb

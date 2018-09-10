@@ -1,0 +1,6 @@
+C:\Lokhajtasosmokus\week-02\day-1\ArraysAndFunctions\ArraysAndFunctions\bin\Debug\ArraysAndFunctions.exe.config
+C:\Lokhajtasosmokus\week-02\day-1\ArraysAndFunctions\ArraysAndFunctions\bin\Debug\ArraysAndFunctions.exe
+C:\Lokhajtasosmokus\week-02\day-1\ArraysAndFunctions\ArraysAndFunctions\bin\Debug\ArraysAndFunctions.pdb
+C:\Lokhajtasosmokus\week-02\day-1\ArraysAndFunctions\ArraysAndFunctions\obj\Debug\ArraysAndFunctions.csproj.CoreCompileInputs.cache
+C:\Lokhajtasosmokus\week-02\day-1\ArraysAndFunctions\ArraysAndFunctions\obj\Debug\ArraysAndFunctions.exe
+C:\Lokhajtasosmokus\week-02\day-1\ArraysAndFunctions\ArraysAndFunctions\obj\Debug\ArraysAndFunctions.pdb
