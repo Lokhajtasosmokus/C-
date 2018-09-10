@@ -1,0 +1,7 @@
+C:\Lokhajtasosmokus\week-02\day-1\Third\Third\bin\Debug\Third.exe.config
+C:\Lokhajtasosmokus\week-02\day-1\Third\Third\bin\Debug\Third.exe
+C:\Lokhajtasosmokus\week-02\day-1\Third\Third\bin\Debug\Third.pdb
+C:\Lokhajtasosmokus\week-02\day-1\Third\Third\obj\Debug\Third.csprojAssemblyReference.cache
+C:\Lokhajtasosmokus\week-02\day-1\Third\Third\obj\Debug\Third.csproj.CoreCompileInputs.cache
+C:\Lokhajtasosmokus\week-02\day-1\Third\Third\obj\Debug\Third.exe
+C:\Lokhajtasosmokus\week-02\day-1\Third\Third\obj\Debug\Third.pdb

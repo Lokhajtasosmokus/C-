@@ -1,0 +1,7 @@
+C:\Lokhajtasosmokus\week-02\day-2\WordFrequency\WordFrequency\obj\Debug\WordFrequency.csprojAssemblyReference.cache
+C:\Lokhajtasosmokus\week-02\day-2\WordFrequency\WordFrequency\obj\Debug\WordFrequency.csproj.CoreCompileInputs.cache
+C:\Lokhajtasosmokus\week-02\day-2\WordFrequency\WordFrequency\bin\Debug\WordFrequency.exe.config
+C:\Lokhajtasosmokus\week-02\day-2\WordFrequency\WordFrequency\bin\Debug\WordFrequency.exe
+C:\Lokhajtasosmokus\week-02\day-2\WordFrequency\WordFrequency\bin\Debug\WordFrequency.pdb
+C:\Lokhajtasosmokus\week-02\day-2\WordFrequency\WordFrequency\obj\Debug\WordFrequency.exe
+C:\Lokhajtasosmokus\week-02\day-2\WordFrequency\WordFrequency\obj\Debug\WordFrequency.pdb
