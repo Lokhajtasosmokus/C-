@@ -1,0 +1,7 @@
+C:\Lokhajtasosmokus\week-02\day-2\SolarSystem2\SolarSystem2\bin\Debug\SolarSystem2.exe.config
+C:\Lokhajtasosmokus\week-02\day-2\SolarSystem2\SolarSystem2\bin\Debug\SolarSystem2.exe
+C:\Lokhajtasosmokus\week-02\day-2\SolarSystem2\SolarSystem2\bin\Debug\SolarSystem2.pdb
+C:\Lokhajtasosmokus\week-02\day-2\SolarSystem2\SolarSystem2\obj\Debug\SolarSystem2.csprojAssemblyReference.cache
+C:\Lokhajtasosmokus\week-02\day-2\SolarSystem2\SolarSystem2\obj\Debug\SolarSystem2.csproj.CoreCompileInputs.cache
+C:\Lokhajtasosmokus\week-02\day-2\SolarSystem2\SolarSystem2\obj\Debug\SolarSystem2.exe
+C:\Lokhajtasosmokus\week-02\day-2\SolarSystem2\SolarSystem2\obj\Debug\SolarSystem2.pdb

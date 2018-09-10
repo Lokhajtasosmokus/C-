@@ -1,0 +1,7 @@
+C:\Lokhajtasosmokus\week-02\day-1\Sum\Sum\bin\Debug\Sum.exe.config
+C:\Lokhajtasosmokus\week-02\day-1\Sum\Sum\bin\Debug\Sum.exe
+C:\Lokhajtasosmokus\week-02\day-1\Sum\Sum\bin\Debug\Sum.pdb
+C:\Lokhajtasosmokus\week-02\day-1\Sum\Sum\obj\Debug\Sum.csprojAssemblyReference.cache
+C:\Lokhajtasosmokus\week-02\day-1\Sum\Sum\obj\Debug\Sum.csproj.CoreCompileInputs.cache
+C:\Lokhajtasosmokus\week-02\day-1\Sum\Sum\obj\Debug\Sum.exe
+C:\Lokhajtasosmokus\week-02\day-1\Sum\Sum\obj\Debug\Sum.pdb
