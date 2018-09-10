@@ -1,0 +1,11 @@
+C:\Lokhajtasosmokus\week-09\CodeFirstPractice\CodeFirstPractice\bin\Debug\netcoreapp2.0\CodeFirstPractice.deps.json
+C:\Lokhajtasosmokus\week-09\CodeFirstPractice\CodeFirstPractice\bin\Debug\netcoreapp2.0\CodeFirstPractice.runtimeconfig.json
+C:\Lokhajtasosmokus\week-09\CodeFirstPractice\CodeFirstPractice\bin\Debug\netcoreapp2.0\CodeFirstPractice.runtimeconfig.dev.json
+C:\Lokhajtasosmokus\week-09\CodeFirstPractice\CodeFirstPractice\bin\Debug\netcoreapp2.0\CodeFirstPractice.dll
+C:\Lokhajtasosmokus\week-09\CodeFirstPractice\CodeFirstPractice\obj\Debug\netcoreapp2.0\CodeFirstPractice.csprojAssemblyReference.cache
+C:\Lokhajtasosmokus\week-09\CodeFirstPractice\CodeFirstPractice\obj\Debug\netcoreapp2.0\CodeFirstPractice.csproj.CoreCompileInputs.cache
+C:\Lokhajtasosmokus\week-09\CodeFirstPractice\CodeFirstPractice\obj\Debug\netcoreapp2.0\CodeFirstPractice.AssemblyInfoInputs.cache
+C:\Lokhajtasosmokus\week-09\CodeFirstPractice\CodeFirstPractice\obj\Debug\netcoreapp2.0\CodeFirstPractice.AssemblyInfo.cs
+C:\Lokhajtasosmokus\week-09\CodeFirstPractice\CodeFirstPractice\bin\Debug\netcoreapp2.0\CodeFirstPractice.pdb
+C:\Lokhajtasosmokus\week-09\CodeFirstPractice\CodeFirstPractice\obj\Debug\netcoreapp2.0\CodeFirstPractice.dll
+C:\Lokhajtasosmokus\week-09\CodeFirstPractice\CodeFirstPractice\obj\Debug\netcoreapp2.0\CodeFirstPractice.pdb
