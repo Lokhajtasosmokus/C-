@@ -1,0 +1,7 @@
+C:\Lokhajtasosmokus\week-02\day-1\ChangeElement\ChangeElement\bin\Debug\ChangeElement.exe.config
+C:\Lokhajtasosmokus\week-02\day-1\ChangeElement\ChangeElement\bin\Debug\ChangeElement.exe
+C:\Lokhajtasosmokus\week-02\day-1\ChangeElement\ChangeElement\bin\Debug\ChangeElement.pdb
+C:\Lokhajtasosmokus\week-02\day-1\ChangeElement\ChangeElement\obj\Debug\ChangeElement.csprojAssemblyReference.cache
+C:\Lokhajtasosmokus\week-02\day-1\ChangeElement\ChangeElement\obj\Debug\ChangeElement.csproj.CoreCompileInputs.cache
+C:\Lokhajtasosmokus\week-02\day-1\ChangeElement\ChangeElement\obj\Debug\ChangeElement.exe
+C:\Lokhajtasosmokus\week-02\day-1\ChangeElement\ChangeElement\obj\Debug\ChangeElement.pdb

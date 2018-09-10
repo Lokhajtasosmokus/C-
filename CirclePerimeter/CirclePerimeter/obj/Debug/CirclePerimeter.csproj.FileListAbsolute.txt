@@ -1,0 +1,7 @@
+C:\Lokhajtasosmokus\week-02\day-1\CirclePerimeter\CirclePerimeter\bin\Debug\CirclePerimeter.exe.config
+C:\Lokhajtasosmokus\week-02\day-1\CirclePerimeter\CirclePerimeter\bin\Debug\CirclePerimeter.exe
+C:\Lokhajtasosmokus\week-02\day-1\CirclePerimeter\CirclePerimeter\bin\Debug\CirclePerimeter.pdb
+C:\Lokhajtasosmokus\week-02\day-1\CirclePerimeter\CirclePerimeter\obj\Debug\CirclePerimeter.csprojAssemblyReference.cache
+C:\Lokhajtasosmokus\week-02\day-1\CirclePerimeter\CirclePerimeter\obj\Debug\CirclePerimeter.csproj.CoreCompileInputs.cache
+C:\Lokhajtasosmokus\week-02\day-1\CirclePerimeter\CirclePerimeter\obj\Debug\CirclePerimeter.exe
+C:\Lokhajtasosmokus\week-02\day-1\CirclePerimeter\CirclePerimeter\obj\Debug\CirclePerimeter.pdb
