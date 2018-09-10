@@ -1,0 +1,11 @@
+C:\Lokhajtasosmokus\week-09\DatabaseFirst\DatabaseFirst\bin\Debug\netcoreapp2.0\DatabaseFirst.deps.json
+C:\Lokhajtasosmokus\week-09\DatabaseFirst\DatabaseFirst\bin\Debug\netcoreapp2.0\DatabaseFirst.runtimeconfig.json
+C:\Lokhajtasosmokus\week-09\DatabaseFirst\DatabaseFirst\bin\Debug\netcoreapp2.0\DatabaseFirst.runtimeconfig.dev.json
+C:\Lokhajtasosmokus\week-09\DatabaseFirst\DatabaseFirst\bin\Debug\netcoreapp2.0\DatabaseFirst.dll
+C:\Lokhajtasosmokus\week-09\DatabaseFirst\DatabaseFirst\obj\Debug\netcoreapp2.0\DatabaseFirst.csprojAssemblyReference.cache
+C:\Lokhajtasosmokus\week-09\DatabaseFirst\DatabaseFirst\obj\Debug\netcoreapp2.0\DatabaseFirst.csproj.CoreCompileInputs.cache
+C:\Lokhajtasosmokus\week-09\DatabaseFirst\DatabaseFirst\obj\Debug\netcoreapp2.0\DatabaseFirst.AssemblyInfoInputs.cache
+C:\Lokhajtasosmokus\week-09\DatabaseFirst\DatabaseFirst\obj\Debug\netcoreapp2.0\DatabaseFirst.AssemblyInfo.cs
+C:\Lokhajtasosmokus\week-09\DatabaseFirst\DatabaseFirst\bin\Debug\netcoreapp2.0\DatabaseFirst.pdb
+C:\Lokhajtasosmokus\week-09\DatabaseFirst\DatabaseFirst\obj\Debug\netcoreapp2.0\DatabaseFirst.dll
+C:\Lokhajtasosmokus\week-09\DatabaseFirst\DatabaseFirst\obj\Debug\netcoreapp2.0\DatabaseFirst.pdb
