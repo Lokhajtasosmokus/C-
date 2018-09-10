@@ -1,0 +1,7 @@
+C:\Lokhajtasosmokus\week-02\day-1\AppendAPractice\AppendAPractice\bin\Debug\AppendAPractice.exe.config
+C:\Lokhajtasosmokus\week-02\day-1\AppendAPractice\AppendAPractice\bin\Debug\AppendAPractice.exe
+C:\Lokhajtasosmokus\week-02\day-1\AppendAPractice\AppendAPractice\bin\Debug\AppendAPractice.pdb
+C:\Lokhajtasosmokus\week-02\day-1\AppendAPractice\AppendAPractice\obj\Debug\AppendAPractice.csprojAssemblyReference.cache
+C:\Lokhajtasosmokus\week-02\day-1\AppendAPractice\AppendAPractice\obj\Debug\AppendAPractice.csproj.CoreCompileInputs.cache
+C:\Lokhajtasosmokus\week-02\day-1\AppendAPractice\AppendAPractice\obj\Debug\AppendAPractice.exe
+C:\Lokhajtasosmokus\week-02\day-1\AppendAPractice\AppendAPractice\obj\Debug\AppendAPractice.pdb
