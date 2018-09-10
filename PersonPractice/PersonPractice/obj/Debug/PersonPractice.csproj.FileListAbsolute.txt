@@ -1,0 +1,7 @@
+C:\Lokhajtasosmokus\week-02\day-2\PersonPractice\PersonPractice\bin\Debug\PersonPractice.exe.config
+C:\Lokhajtasosmokus\week-02\day-2\PersonPractice\PersonPractice\bin\Debug\PersonPractice.exe
+C:\Lokhajtasosmokus\week-02\day-2\PersonPractice\PersonPractice\bin\Debug\PersonPractice.pdb
+C:\Lokhajtasosmokus\week-02\day-2\PersonPractice\PersonPractice\obj\Debug\PersonPractice.csprojAssemblyReference.cache
+C:\Lokhajtasosmokus\week-02\day-2\PersonPractice\PersonPractice\obj\Debug\PersonPractice.csproj.CoreCompileInputs.cache
+C:\Lokhajtasosmokus\week-02\day-2\PersonPractice\PersonPractice\obj\Debug\PersonPractice.exe
+C:\Lokhajtasosmokus\week-02\day-2\PersonPractice\PersonPractice\obj\Debug\PersonPractice.pdb

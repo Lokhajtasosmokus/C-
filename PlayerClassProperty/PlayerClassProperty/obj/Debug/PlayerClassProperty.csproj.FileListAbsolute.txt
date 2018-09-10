@@ -1,0 +1,7 @@
+C:\Lokhajtasosmokus\week-02\day-2\PlayerClassProperty\PlayerClassProperty\bin\Debug\PlayerClassProperty.exe.config
+C:\Lokhajtasosmokus\week-02\day-2\PlayerClassProperty\PlayerClassProperty\bin\Debug\PlayerClassProperty.exe
+C:\Lokhajtasosmokus\week-02\day-2\PlayerClassProperty\PlayerClassProperty\bin\Debug\PlayerClassProperty.pdb
+C:\Lokhajtasosmokus\week-02\day-2\PlayerClassProperty\PlayerClassProperty\obj\Debug\PlayerClassProperty.csprojAssemblyReference.cache
+C:\Lokhajtasosmokus\week-02\day-2\PlayerClassProperty\PlayerClassProperty\obj\Debug\PlayerClassProperty.csproj.CoreCompileInputs.cache
+C:\Lokhajtasosmokus\week-02\day-2\PlayerClassProperty\PlayerClassProperty\obj\Debug\PlayerClassProperty.exe
+C:\Lokhajtasosmokus\week-02\day-2\PlayerClassProperty\PlayerClassProperty\obj\Debug\PlayerClassProperty.pdb

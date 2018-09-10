@@ -1,0 +1,7 @@
+c:\Lokhajtasosmokus\week-02\day-2\Matrix\Matrix\bin\Debug\Matrix.exe.config
+c:\Lokhajtasosmokus\week-02\day-2\Matrix\Matrix\bin\Debug\Matrix.exe
+c:\Lokhajtasosmokus\week-02\day-2\Matrix\Matrix\bin\Debug\Matrix.pdb
+c:\Lokhajtasosmokus\week-02\day-2\Matrix\Matrix\obj\Debug\Matrix.csprojAssemblyReference.cache
+c:\Lokhajtasosmokus\week-02\day-2\Matrix\Matrix\obj\Debug\Matrix.csproj.CoreCompileInputs.cache
+c:\Lokhajtasosmokus\week-02\day-2\Matrix\Matrix\obj\Debug\Matrix.exe
+c:\Lokhajtasosmokus\week-02\day-2\Matrix\Matrix\obj\Debug\Matrix.pdb
