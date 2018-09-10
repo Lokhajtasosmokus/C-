@@ -1,0 +1,6 @@
+C:\Lokhajtasosmokus\week-02\day-1\IncrementElement\IncrementElement\bin\Debug\IncrementElement.exe.config
+C:\Lokhajtasosmokus\week-02\day-1\IncrementElement\IncrementElement\bin\Debug\IncrementElement.exe
+C:\Lokhajtasosmokus\week-02\day-1\IncrementElement\IncrementElement\bin\Debug\IncrementElement.pdb
+C:\Lokhajtasosmokus\week-02\day-1\IncrementElement\IncrementElement\obj\Debug\IncrementElement.csproj.CoreCompileInputs.cache
+C:\Lokhajtasosmokus\week-02\day-1\IncrementElement\IncrementElement\obj\Debug\IncrementElement.exe
+C:\Lokhajtasosmokus\week-02\day-1\IncrementElement\IncrementElement\obj\Debug\IncrementElement.pdb
